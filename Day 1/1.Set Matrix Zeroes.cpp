@@ -1,4 +1,4 @@
-<b>- Naive Approach:</b>
+### - Naive Approach:
 class Solution {
 public:
     void set_zeros1(vector<vector<int>>& mat,int row,int col){
